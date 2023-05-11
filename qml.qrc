@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/qml/main.qml</file>
+        <file>resources/qml/TwBarChart.qml</file>
+        <file>resources/qml/TwDialogs.qml</file>
+        <file>resources/qml/TwButtons.qml</file>
+        <file>resources/qml/qmldir</file>
+        <file>resources/qml/TwProgressBar.qml</file>
+        <file>resources/qml/TwContrastLabel.qml</file>
+    </qresource>
+</RCC>
